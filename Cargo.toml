@@ -1,0 +1,6 @@
+[package]
+name = "puma"
+version = "0.1.0"
+authors = ["Niels Nielsen <nielserenna@gmail.com>"]
+
+[dependencies]
